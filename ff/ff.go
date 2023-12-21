@@ -1,8 +1,8 @@
 package ff
 
 import (
-	"cc/dd/gg"
 	"fmt"
+	"github.com/chenliu098/gostart/gg"
 )
 
 func ServerFF() {
